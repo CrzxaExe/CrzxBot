@@ -74,7 +74,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╿ Waktu : *%time*
 ╿ Lama Aktif : *%uptime*
 ╿ Database : %totalreg Nomor
-╰═══════════════
+╰═══════════════════
 
 ╭════•›「 Sosmed 」
 ╿ Github :
@@ -82,12 +82,12 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╿ Youtube : Crzx :D
 ╿ Facebook : Cŕżx Zxŕa
 ╿ Subscribe Bang
-╰═══════════════
+╰═══════════════════
 
 ╭════•›「 Rules 」
 ╿• Telpon/VC = BAN
 ╿• Spam = BAN
-╰═══════════════
+╰═══════════════════
 
 %readmore`
     let header = conn.menu.header || '╭════•›「 %category 」'
