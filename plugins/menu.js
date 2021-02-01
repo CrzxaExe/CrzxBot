@@ -78,7 +78,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 
 ╭════•›「 Sosmed 」
 ╿ Github :
-╿ https://github.com/Arya274/Arya-BOT3
+╿ https://github.com/CrzxaExe/CrzxBot
 ╿ Youtube : Crzx 
 ╿ Subscribe Bang
 ╰═══════════════
