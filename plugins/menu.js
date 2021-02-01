@@ -79,7 +79,8 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╭════•›「 Sosmed 」
 ╿ Github :
 ╿ https://github.com/CrzxaExe/CrzxBot
-╿ Youtube : Crzx 
+╿ Youtube : Crzx :D
+╿ Facebook : Cŕżx Zxŕa
 ╿ Subscribe Bang
 ╰═══════════════
 
