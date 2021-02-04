@@ -2,7 +2,7 @@ let handler = async (m, { conn }) => {
   let pp = './src/avatar_contact.png'
   try {
     pp = await conn.getProfilePicture(m.sender)
-    let exp = global.DATABASE.data.users[m.sender).exp
+    let exp = global.DATABASE.data.users[m.sender].exp
   } catch (e) {
 
   } finally {
