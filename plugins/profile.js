@@ -11,8 +11,8 @@ let handler = async (m, { conn }) => {
 Name: ${name.vnmae || name.notify || name.name || ('+' + name.jid.split`@`[0])} (@${m.sender.replace(/@.+/, '')})
 Number: +${m.sender.split`@`[0]}
 Link: https://wa.me/${m.sender.split`@`[0]}
-Xp : *%exp XP*
-Terimakasih telah menggunakan bot ini
+Xp: *%exp XP*
+Terimakasih telah menggunakan bot ini!
 `.trim()
     let mentionedJid = [m.sender]
     conn.sendFile(m.chat, pp, 'pp.jpg', str, m, false, { contextInfo: { mentionedJid }})
