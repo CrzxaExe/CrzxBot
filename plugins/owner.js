@@ -6,9 +6,9 @@ let handler = async (m, { conn }) => {
   } else conn.reply(m.chat, 'Anda sudah mengklaim klaim harian  hari ini', m)
 }
 handler.help = ['owner']
-handler.tags = ['xp']
+handler.tags = ['owner']
 handler.command = /^(palkon|adam)$/i
-handler.owner = false
+handler.owner = true
 handler.mods = false
 handler.premium = false
 handler.group = false
