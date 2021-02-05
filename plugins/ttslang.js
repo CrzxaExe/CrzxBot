@@ -3,7 +3,7 @@ let handler = async (m, { conn }) => {
   TTS language
   id : Indonesia
   en : English
-  je : Jepang
+  ja : Jepang
   ru : Rusia
   ne : India
 `.trim(), m)
