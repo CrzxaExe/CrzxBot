@@ -6,7 +6,8 @@ let handler = async (m, { conn }) => {
 ╿  ja : Jepang
 ╿  ru : Rusia
 ╿  ne : India
-╰═══════════════════
+╿  ko : Korea 
+╰═══════════════════════
 `.trim(), m)
 }
 handler.help = ['ttslang']
