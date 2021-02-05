@@ -1,11 +1,12 @@
 let handler = async (m, { conn }) => {
   conn.reply(m.chat, `
-  TTS language
-  id : Indonesia
-  en : English
-  ja : Jepang
-  ru : Rusia
-  ne : India
+╭════•>TTS language
+╿  id : Indonesia
+╿  en : English
+╿  ja : Jepang
+╿  ru : Rusia
+╿  ne : India
+╰═══════════════════
 `.trim(), m)
 }
 handler.help = ['ttslang']
