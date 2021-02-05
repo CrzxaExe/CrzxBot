@@ -5,6 +5,6 @@
 <br>
 
 # Clone My Github
-...bash
-https://github.com/CrzxaExe/CrzxBot
-...
+```bash
+>https://github.com/CrzxaExe/CrzxBot
+```
