@@ -6,11 +6,11 @@ let handler = async (m, { conn }) => {
   ╿
   ╿ Silahkan pilih kelas anda:
   ╿ *8F*
-  ╿ https://forms.gle/xHUnn2XovxFEqBGg6
+  ╿https://forms.gle/xHUnn2XovxFEqBGg6
   ╿ *9G*
-  ╿ https://forms.gle/Q3ZSeo9Gb8R78jvB9
+  ╿https://forms.gle/Q3ZSeo9Gb8R78jvB9
   ╿ *9H*   
-  ╿ https://forms.gle/bmF6YkHBkuzfRYcw6
+  ╿https://forms.gle/bmF6YkHBkuzfRYcw6
   ╿
   ╿*Selamat belajar online*
   ╿
