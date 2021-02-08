@@ -1,20 +1,20 @@
 let handler = async (m, { conn }) => {
   conn.reply(m.chat, `
   ╭══════•>「 *Absensi* 」
-  ╿
-  ╿  %week, %date
-  ╿
-  ╿ Silahkan pilih kelas anda:
-  ╿ *8F*
-  ╿https://forms.gle/xHUnn2XovxFEqBGg6
-  ╿ *9G*
-  ╿https://forms.gle/Q3ZSeo9Gb8R78jvB9
-  ╿ *9H*   
-  ╿https://forms.gle/bmF6YkHBkuzfRYcw6
-  ╿
-  ╿*Selamat belajar online*
-  ╿
-  ╰═════════════════════════
+ ╿
+ ╿  
+ ╿
+ ╿ Silahkan pilih kelas anda:
+ ╿ *8F*
+ ╿https://forms.gle/xHUnn2XovxFEqBGg6
+ ╿ *9G*
+ ╿https://forms.gle/Q3ZSeo9Gb8R78jvB9
+ ╿ *9H*   
+ ╿https://forms.gle/bmF6YkHBkuzfRYcw6
+ ╿
+ ╿*Selamat belajar online*
+ ╿
+ ╰═════════════════════════
 `.trim(), m)
 }
 handler.help = [''].map(v => v + ' <>')
