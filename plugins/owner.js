@@ -7,7 +7,7 @@ let handler = async (m, { conn }) => {
 }
 handler.help = ['owner']
 handler.tags = ['owner']
-handler.command = /^(palkon|adam)$/i
+handler.command = /^(owner|adam)$/i
 handler.owner = true
 handler.mods = false
 handler.premium = false
