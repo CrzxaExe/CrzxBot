@@ -17,7 +17,7 @@ let handler = async (m, { conn }) => {
 ╰═════════════════════════
 `.trim(), m)
 }
-handler.help = [''].map(v => v + ' <>')
+handler.help = ['absen']
 handler.tags = ['']
 handler.command = /^absen/i
 handler.owner = false
