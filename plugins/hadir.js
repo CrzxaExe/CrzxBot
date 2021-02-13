@@ -7,6 +7,8 @@ let handler = async (m, { conn }) => {
 ╿ Silahkan pilih kelas anda:
 ╿ *8F*
 ╿https://forms.gle/xHUnn2XovxFEqBGg6
+╿ *9B*
+╿https://forms.gle/W6VTkwMMLskEctTX6
 ╿ *9G*
 ╿https://forms.gle/Q3ZSeo9Gb8R78jvB9
 ╿ *9H*   
